@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Vivat Chongsomchit 👋
 🔭 I’m currently studying on KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK
 
 <!--
