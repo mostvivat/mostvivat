@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently studying on
+🔭 I’m currently studying on KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK
 
 <!--
 **mostvivat/mostvivat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
