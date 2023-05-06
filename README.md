@@ -1,5 +1,5 @@
-### <h1>Hi I'm Most👋</h1>
-🔭 I’m currently studying on KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK
+### <h1>👋</h1>
+🔭 I'm You Most, an undergraduate student at KMUNTB.
 
 
 
