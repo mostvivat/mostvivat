@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+## 💻 Current project
+- [LittleBuddy]
+
+
+
+
+
 ## <h3 align="left">GitHub Stats</h3>
 
 <a href="">
