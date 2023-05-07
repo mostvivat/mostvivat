@@ -6,13 +6,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mostvivat" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mostvivat" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -46,8 +39,11 @@
 ## <h3 align="left">GitHub Stats</h3>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostvivat&theme=material_palenight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostvivat&theme=material_palenight)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mostvivat&theme=material_palenight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostvivat&theme=material_palenight)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostvivat&theme=material_palenight&utcOffset=8)
-  
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mostvivat" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mostvivat" height="150" alt="languages graph"  />
+</div>
+
 
