@@ -28,7 +28,7 @@
 
 
 ## 💻 My portfolio
-- [mostvivat](https://mostvivat.github.io/#home)
+- [mostvivat](https://mostvivat.github.io)
 
 
 ## ⚒️ Current project
