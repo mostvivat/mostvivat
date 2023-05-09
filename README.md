@@ -27,8 +27,11 @@
 </div>
 
 
+## 💻 My portfolio
+- [mostvivat](https://mostvivat.github.io/#home)
 
-## 💻 Current project
+
+## ⚒️ Current project
 - [LittleBuddy](#)
 
 
