@@ -54,7 +54,7 @@
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
  
  
-##  <img src=icons8-certificate-48.png/> My Certification 
+## 🎖  My Certification 
 
 <p>
     <img width="320" src="tarek.png "/>
