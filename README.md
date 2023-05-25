@@ -44,11 +44,8 @@
 
 ## 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&theme=gotham" alt="mostvivat" />
-  
-  
--   Compact layout
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&theme=gotham" alt="mostvivat" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&layout=compact)](https://github.com/mostvivat/github-readme-stats)
   
 ## 🎧 Spotify Playing
   
