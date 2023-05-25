@@ -45,10 +45,14 @@
 ## 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&theme=gotham" alt="mostvivat" /> 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-</div>
+
   
+### Compact Language Card Layout
+  
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&layout=compact)](https://github.com/mostvivat/github-readme-stats)
+```
+
 ## 🎧 Spotify Playing
   
 ![spotify-github-profile](/img/default.svg)
