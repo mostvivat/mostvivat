@@ -56,7 +56,9 @@
  
 ##  <img src=icons8-certificate-48.png/> My Certification 
 
-<img src=CLOUD.png/>
-<img src=mpdf.png/>
-<img src=tarek.png/>
+<p>
+    <img width="200" src="tarek.png "/>
+    <img width="200" src="CLOUD.png" />
+    <img width="200" src="mpdf.png "/>
+</p>
 
