@@ -48,7 +48,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat)](https://github.com/mostvivat/github-readme-stats)
 <br>
-![Mostvivat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true)
  </center>
 ## 🎧 Spotify Playing
   
