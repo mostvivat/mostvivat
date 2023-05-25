@@ -50,7 +50,7 @@
 ### Compact Language Card Layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&layout=compact)](https://github.com/mostvivat/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mostvivat&repo=github-readme-stats)](https://github.com/mostvivat/github-readme-stats)
 
 ## 🎧 Spotify Playing
   
