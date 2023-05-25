@@ -1,6 +1,5 @@
-### <h1>👋Hi</h1>
-### I'm  Most, an undergraduate student at KMUNTB 
-
+<h1 align="center">Hi 👋, I'm itgoyo</h1>
+<h3 align="center">An undergraduate student at KMUNTB </h3>
 
 
 ## 🛠️ languages and tools:
