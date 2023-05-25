@@ -57,8 +57,8 @@
 ## 🎖  My Certification 
 
 <p>
-    <img width="320" src="tarek.png "/>
-    <img width="320" src="CLOUD.png" />
-    <img width="320" src="mpdf.png "/>
+    <img width="250" src="tarek.png "/>
+    <img width="250" src="CLOUD.png" />
+    <img width="250" src="mpdf.png "/>
 </p>
 
