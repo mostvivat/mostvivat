@@ -45,3 +45,10 @@
 ## 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&theme=gotham" alt="mostvivat" />
+  
+  
+## 🎧 Spotify Playing
+  
+![spotify-github-profile](/img/default.svg)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf?si=05a325a9cd9b441c&nd=1&cover_image=true&theme=default)](https://github.com/mostvivat/spotify-github-profile) -->
+
