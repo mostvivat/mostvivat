@@ -46,9 +46,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&theme=gotham" alt="mostvivat" /> 
 
-  
-### Compact Language Card Layout
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat)](https://github.com/mostvivat/github-readme-stats)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mostvivat&repo=mostvivat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
   
 ## 🎧 Spotify Playing
