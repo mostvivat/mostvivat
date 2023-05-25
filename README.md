@@ -44,8 +44,8 @@
 
 ## 📈 my github stats
 
-
 ![Mostvivat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/mostvivat/github-readme-stats)
 
 
