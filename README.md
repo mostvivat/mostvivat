@@ -54,5 +54,5 @@
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
  
  
-## ![image](https://github.com/mostvivat/mostvivat/assets/91275232/5e0872f7-de5b-4f61-9faa-a659b8fd7d10)
+##  <img src=icons8-certificate-48.png/>
 My Certification 
