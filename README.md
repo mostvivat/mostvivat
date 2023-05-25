@@ -43,12 +43,13 @@
 
 
 ## 📈 my github stats
+<center>
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mostvivat&repo=mostvivat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat)](https://github.com/mostvivat/github-readme-stats)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true)
-  
+![Mostvivat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true)
+ </center>
 ## 🎧 Spotify Playing
   
 ![spotify-github-profile](/img/default.svg)
