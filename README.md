@@ -50,7 +50,5 @@
 
 
 ## 🎧 Spotify Playing
-  
-![spotify-github-profile](/img/default.svg)
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf?si&cover_image=true&theme=default)](https://github.com/mostvivat/spotify-github-profile) -->
-
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
