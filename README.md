@@ -1,5 +1,5 @@
 ### <h1>👋Hi</h1>
-<h2>🔭 I'm  Most, an undergraduate student at KMUNTB.</h2>
+### I'm  Most, an undergraduate student at KMUNTB 
 
 
 
