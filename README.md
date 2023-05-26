@@ -37,7 +37,11 @@
   
 </div>
 
-###
+
+<details>
+    <summary><b>🎁 Open me (HTML approach) </b></summary>
+    <img src="https://mostvivat.github.io/"/>
+</details>
 
 
 
