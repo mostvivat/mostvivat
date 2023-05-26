@@ -2,7 +2,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3EF5F7&width=435&lines=My+name+is+Vivat+Chongsomchit;undergraduate+student+at+KMUNTB" alt="Typing SVG" /></a></p>
 
 
-## 📱 Connect with me:
+## 📱 How to reach me:
 
 <div align="center">
   <a href="https://instagram.com/most159" target="_blank">
