@@ -42,21 +42,6 @@
 - [The Complete 2023 Software Testing Bootcamp(Udemy)](#)
 
 
-## 📈 My github stats
-
-
-![Mostvivat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/mostvivat/github-readme-stats)
-
-
-<details>
-  <summary><h2>🎧 Spotify Playing</h2></summary>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</details>
-
- 
 ## 🎖  My Certification 
 
 <p>
@@ -65,3 +50,18 @@
     <img width="250" src="mpdf.png "/>
 </p>
 
+
+<details>
+  <summary><h2>📈 My github stats</h2></summary>
+![Mostvivat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/mostvivat/github-readme-stats)
+</details>
+
+
+<details>
+  <summary><h2>🎧 Spotify Playing</h2></summary>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</details>
+
+ 
