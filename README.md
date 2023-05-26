@@ -2,7 +2,18 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3EF5F7&width=435&lines=My+name+is+Vivat+Chongsomchit;undergraduate+student+at+KMUNTB" alt="Typing SVG" /></a></p>
 
 
-## 🛠️ Languages and tools:
+## 📱 Connect with me:
+
+<div align="center">
+  <a href="https://instagram.com/most159" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vivat-chongsomchit-72108a275/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+## 🔧 Languages and tools
 
 
 <div align="center">
@@ -20,25 +31,17 @@
 
 ###
 
-<div align="center">
-  <a href="https://instagram.com/most159" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vivat-chongsomchit-72108a275/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 
-## 💻 My portfolio
+## 📑 My portfolio
 - [mostvivat](https://mostvivat.github.io)
 
 
-## ⚒️ Current project
+## 💻 Current project
 - [LittleBuddy](#)
 
 
-## 📚 Learning
+## 📖 Learning
 - [The Complete 2023 Software Testing Bootcamp(Udemy)](#)
 
 
