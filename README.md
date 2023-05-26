@@ -2,7 +2,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3EF5F7&width=435&lines=My+name+is+Vivat+Chongsomchit;undergraduate+student+at+KMUNTB" alt="Typing SVG" /></a></p>
 
 
-## 🛠️ languages and tools:
+## 🛠️ Languages and tools:
 
 
 <div align="center">
@@ -42,7 +42,7 @@
 - [The Complete 2023 Software Testing Bootcamp(Udemy)](#)
 
 
-## 📈 my github stats
+## 📈 My github stats
 
 ![Mostvivat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 <br>
