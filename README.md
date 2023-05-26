@@ -58,8 +58,9 @@
   <summary><h2>📈 My GitHub stats</h2></summary>
   
   ![Mostvivat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+  <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/mostvivat/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
   
 </details>
 
@@ -70,4 +71,4 @@
 </details>
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostvivat"/>
+ 
