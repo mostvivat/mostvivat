@@ -44,15 +44,18 @@
 
 ## 📈 My github stats
 
+
 ![Mostvivat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/mostvivat/github-readme-stats)
 
 
-## 🎧 Spotify Playing
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
- 
+<details>
+  <summary>🎧 Spotify Playing</summary>
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</details>
+
  
 ## 🎖  My Certification 
 
