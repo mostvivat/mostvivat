@@ -68,8 +68,13 @@
   
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
- <a href="https://github.com/mostvivat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&langs_count=10&title_color=fff&text_color=9f9f9f&icon_color=f9f9f9&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://camo.githubusercontent.com/fc7ab63c0d13a62ee92c9262c367cdf87b13b50f5781eb5854daf78d1d150c49/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26626f726465725f636f6c6f723d6339666630302673686f775f69636f6e733d74727565">
+
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="[https://camo.githubusercontent.com/14ae1b49b861837c7787f8ba19b5b7349d160bdbc0b90f2184b60789449077f1/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d633966663030266c616e67735f636f756e743d36](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&layout=donut)">
   
 
 
