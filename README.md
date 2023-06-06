@@ -63,6 +63,8 @@
 
 
 ## 📈 My GitHub stats<
+
+  [![Example](https://github-stats-alpha.vercel.app/api?username=mostvivat&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal&cc=000&tc=fff&ic=fff&bc=000 "Example")
   
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True)](https://githubtrends.io)
   
