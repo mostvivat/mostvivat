@@ -61,7 +61,7 @@
     <img width="250" src="tpdf.png "/>
 </p>
 
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/langs)](https://githubtrends.io)
 <details>
   <summary><h2>📈 My GitHub stats</h2></summary>
   
