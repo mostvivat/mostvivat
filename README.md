@@ -73,7 +73,7 @@
   
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/mostvivat/mostvivat/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="github-user-contribution.svg" width="100%">
 
 
 <details>
