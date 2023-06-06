@@ -75,6 +75,11 @@
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="github-user-contribution.svg" width="100%">
 
+> **🐍 Activity Snake**:
+
+|![Animation](https://raw.githubusercontent.com/mostvivat/mostvivat/output/github-contribution-grid-snake-dark.svg)|
+|---|
+
 
 <details>
   <summary><h2>🎧 Spotify Playing</h2></summary>
