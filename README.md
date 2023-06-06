@@ -68,6 +68,7 @@
   
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
   
+  
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/mostvivat/mostvivat/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
