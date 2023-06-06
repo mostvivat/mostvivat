@@ -64,9 +64,9 @@
 
 ## 📈 My GitHub stats<
   
-  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
-
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True)](https://githubtrends.io)
+  
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
   
   <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
  <a href="https://github.com/mostvivat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat&langs_count=10&title_color=fff&text_color=9f9f9f&icon_color=f9f9f9&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
