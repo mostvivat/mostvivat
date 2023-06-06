@@ -62,7 +62,8 @@
 </p>
 
 
-  <summary><h2>📈 My GitHub stats</h2></summary>
+## 📈 My GitHub stats<
+  
   [![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/mostvivat/langs](https://api.githubtrends.io/user/svg/mostvivat/repos?time_range=one_year&include_private=True&theme=dark))](https://githubtrends.io)
   
   <img src="https://github-readme-stats.vercel.app/api?username=mostvivat&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
