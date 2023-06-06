@@ -70,6 +70,17 @@
   
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
   
+  <table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=mostvivat&hide_border=true&show_icons=true&count_private=true" alt="mostvivat's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=mostvivat&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  
+</table>
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/mostvivat/mostvivat/snake/github-contribution-grid-snake-dark.svg" width="100%">
