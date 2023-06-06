@@ -67,7 +67,7 @@
   
   [![Example](https://github-stats-alpha.vercel.app/api?username=mostvivat&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal&cc=000&tc=fff&ic=fff&bc=000 "Example")
   
-   <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=mostvivat&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=mostvivat&hide_border=true&langs_count=8&layout=compact&count_private=true&cc=000&tc=fff&ic=fff&bc=000" alt="Top Languages" /></a>
    
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mostvivat/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
   
