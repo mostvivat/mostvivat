@@ -61,6 +61,7 @@
     <img width="250" src="tpdf.png "/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostvivat)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary><h2>📈 My GitHub stats</h2></summary>
