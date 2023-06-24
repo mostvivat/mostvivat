@@ -71,7 +71,7 @@
 </p>
 
 
-## 📈 My GitHub stats<
+## 📈  GitHub stats<
   
   
   [![Example](https://github-stats-alpha.vercel.app/api?username=mostvivat "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal&cc=000&tc=fff&ic=fff&bc=000 "Example")
