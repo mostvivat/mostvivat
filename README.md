@@ -54,6 +54,7 @@
 
 ## 💻 Current project
 - [LittleBuddy](#)
+- [React-Portfolio](https://github.com/mostvivat/Portfolio_React.git)
 
 
 ## 📖 Learning
