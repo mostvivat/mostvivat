@@ -76,11 +76,10 @@
 
 
 
-<details>
-  <summary><h2>🎧 Spotify Playing</h2></summary>
+<h2>🎧 Spotify Playing</h2>
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcefjxzyu8o9h9txo2eas4ivf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</details>
+
 
 
 ### 👀 Visitor 
