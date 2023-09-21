@@ -34,8 +34,6 @@
 </p>
 
 
-
-
 ## 📑 Pesonal Portfolio Website
 - [mostvivat](https://mostvivat.github.io)
 
