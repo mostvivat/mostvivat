@@ -41,11 +41,11 @@
 
 ## 💻 Current project
 - [LittleBuddy](#) 🔥
-- [React-Portfolio](https://github.com/mostvivat/Portfolio_React.git)
+- [React-Portfolio](https://github.com/mostvivat/Portfolio_React.git) ✅
 
 
 ## 📖 Learning
-- [The Complete 2023 Software Testing Bootcamp(Udemy)](#)
+- [The Complete 2023 Software Testing Bootcamp(Udemy)](#) ✅
 
 
 ## 🎖  My Certification 
