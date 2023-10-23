@@ -40,7 +40,7 @@
 
 
 ## 💻 Current project
-- [LittleBuddy](#)
+- [LittleBuddy](#) 🔥
 - [React-Portfolio](https://github.com/mostvivat/Portfolio_React.git)
 
 
