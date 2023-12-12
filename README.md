@@ -17,13 +17,7 @@
 </div>
 
 
-## 🔧 Languages and tools
-
-
-   
-           
-  
-</div>
+## 🔧 Languages and tools  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,html,css,js,react,py,mysql,php,postman,docker,firebase,androidstudio,bootstrap,cpp,flutter,dart,gcp,selenium,vscode,md,java" />
@@ -37,12 +31,12 @@
 
 
 ## 💻 Current project
-- [LittleBuddy](#) ✅
-- [React-Portfolio](https://github.com/mostvivat/Portfolio_React.git) ✅
+- ❌
 
 
 ## 📖 Learning
 - [The Complete 2023 Software Testing Bootcamp(Udemy)](#) ✅
+- QA Internship on EDC Team BPS co.ltd
 
 
 ## 🎖  My Certification 
