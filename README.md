@@ -35,7 +35,6 @@
 
 
 ## 📖 Learning
-- [The Complete 2023 Software Testing Bootcamp(Udemy)](#) ✅
 - QA Internship on EDC Team BPS co.ltd
 
 
