@@ -31,7 +31,7 @@
 
 
 ## 💻 Current project
-- ❌
+- Flutter Intregrated with Dialogflow
 
 
 ## 📖 Learning
