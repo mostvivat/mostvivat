@@ -35,7 +35,6 @@
 
 
 ## 📖 Learning
-- QA  Internship on EDC Team BPS co.ltd
 
 
 ## 🎖  My Certification 
