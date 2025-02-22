@@ -6,13 +6,13 @@
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/vivat-chongsomchit-72108a275/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=pokemost@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://instagram.com/mostvivat">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  alt="instagram logo"  />
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  alt="instagram logo"/>
     </a>
 </div>
 
