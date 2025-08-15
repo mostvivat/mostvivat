@@ -20,7 +20,7 @@
 ## 🔧 Languages and tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,html,css,js,react,py,mysql,php,postman,docker,firebase,androidstudio,bootstrap,cpp,flutter,dart,gcp,selenium,vscode,md,java" />
+    <img src="https://skillicons.dev/icons?i=postman,github,git,html,css,js,react,py,mysql,php,docker,firebase,androidstudio,bootstrap,azure,selenium,vscode,md,java,postgres" />
   </a>
 </p>
 
